@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KiaFathi/ngExpressHapi/issues"
   },
-  "homepage": "https://github.com/KiaFathi/ngExpressHapi"
+  "homepage": "https://github.com/KiaFathi/ngExpressHapi",
+  "dependencies": {
+    "angular": "^1.2.19"
+  }
 }
